@@ -3,3 +3,5 @@
 テスト
 
 ディレクトリ構造がわからん
+
+![image](images/chart.png)
